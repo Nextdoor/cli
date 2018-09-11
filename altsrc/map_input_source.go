@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"gopkg.in/Nextdoor/cli"
+	"gopkg.in/Nextdoor/cli.v1"
 )
 
 // MapInputSource implements InputSourceContext to return

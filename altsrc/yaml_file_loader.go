@@ -14,7 +14,7 @@ import (
 	"runtime"
 	"strings"
 
-	"gopkg.in/Nextdoor/cli"
+	"gopkg.in/Nextdoor/cli.v1"
 
 	"gopkg.in/yaml.v2"
 )

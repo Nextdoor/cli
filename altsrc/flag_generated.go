@@ -3,7 +3,7 @@ package altsrc
 import (
 	"flag"
 
-	"gopkg.in/Nextdoor/cli"
+	"gopkg.in/Nextdoor/cli.v1"
 )
 
 // WARNING: This file is generated!

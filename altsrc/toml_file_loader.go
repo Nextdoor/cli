@@ -10,7 +10,7 @@ import (
 	"reflect"
 
 	"github.com/BurntSushi/toml"
-	"gopkg.in/Nextdoor/cli"
+	"gopkg.in/Nextdoor/cli.v1"
 )
 
 type tomlMap struct {

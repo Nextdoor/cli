@@ -121,7 +121,7 @@ $ go get gopkg.in/urfave/cli.v1
 ``` go
 ...
 import (
-  "gopkg.in/Nextdoor/cli" // imports as package "cli"
+  "gopkg.in/Nextdoor/cli.v1" // imports as package "cli"
 )
 ...
 ```

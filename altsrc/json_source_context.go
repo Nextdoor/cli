@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"gopkg.in/Nextdoor/cli"
+	"gopkg.in/Nextdoor/cli.v1"
 )
 
 // NewJSONSourceFromFlagFunc returns a func that takes a cli.Context

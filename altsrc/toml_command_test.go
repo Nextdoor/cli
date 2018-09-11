@@ -11,7 +11,7 @@ import (
 	"os"
 	"testing"
 
-	"gopkg.in/Nextdoor/cli"
+	"gopkg.in/Nextdoor/cli.v1"
 )
 
 func TestCommandTomFileTest(t *testing.T) {

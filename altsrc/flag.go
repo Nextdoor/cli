@@ -6,7 +6,7 @@ import (
 	"strings"
 	"syscall"
 
-	"gopkg.in/Nextdoor/cli"
+	"gopkg.in/Nextdoor/cli.v1"
 )
 
 // FlagInputSourceExtension is an extension interface of cli.Flag that
