@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"gopkg.in/urfave/cli.v1"
+	"gopkg.in/Nextdoor/cli"
 )
 
 const (

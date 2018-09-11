@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"gopkg.in/urfave/cli.v1"
+	"gopkg.in/Nextdoor/cli"
 )
 
 type testApplyInputSource struct {

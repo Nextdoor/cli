@@ -3,7 +3,7 @@ package altsrc
 import (
 	"time"
 
-	"gopkg.in/urfave/cli.v1"
+	"gopkg.in/Nextdoor/cli"
 )
 
 // InputSourceContext is an interface used to allow

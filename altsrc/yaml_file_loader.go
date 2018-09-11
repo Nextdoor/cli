@@ -14,7 +14,7 @@ import (
 	"runtime"
 	"strings"
 
-	"gopkg.in/urfave/cli.v1"
+	"gopkg.in/Nextdoor/cli"
 
 	"gopkg.in/yaml.v2"
 )
